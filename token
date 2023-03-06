@@ -1,0 +1,7 @@
+"username": "jsmith"
+"userKey": "402880824ff933a4014ff9345d7c0002"
+    
+    
+"self": "http://myhost:8080/confluence/rest/experimental/user?key=402880824ff933a4014ff9345d7c0002"
+
+Authorization: Basic dXNlckBleGFtcGxlLmNvbTpzZWNyZXQ=
